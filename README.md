@@ -9,3 +9,7 @@ result:
 q1.py is an implementation that use hough transform to detects circles in video.
 
 The result saved in output_video.avi.
+
+If you find this code useful for your research, please star it.
+
+If you have any questions about this code, please do not hesitate to contact me.
